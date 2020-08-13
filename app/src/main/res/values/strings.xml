@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P06-TaskManager</string>
+    <string name="add">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+
+    <string name="notification_title">Wearable Notification</string>
+    <string name="basic_notify_msg">This is a Basic Notification message</string>
+    <string name="notification_button">Notify</string>
+    <string name="notification_message">Good day</string>
+    <string-array name="voice_choices">
+        <item>OK</item>
+        <item>Great</item>
+        <item>Im not sure</item>
+    </string-array>
+</resources>

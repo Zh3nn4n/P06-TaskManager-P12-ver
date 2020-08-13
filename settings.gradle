@@ -1,0 +1,2 @@
+rootProject.name='P06-TaskManager'
+include ':app'
